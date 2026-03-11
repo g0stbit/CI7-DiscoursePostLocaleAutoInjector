@@ -1,0 +1,8 @@
+{
+  "name": "Post Locale Auto-Injector",
+  "component": true,
+  "license_url": "https://opensource.org/licenses/MIT",
+  "authors": "Community-CI7",
+  "theme_version": "1.0.0",
+  "minimum_discourse_version": "3.2.0"
+}
